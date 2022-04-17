@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+    box-sizing: border-box;
+}
+
+:root{
+    --bgcol: rgba(151, 150, 150, 0.21);
+    --col_theme: rgba(232, 225, 225, 0.473);
+    --col_reg: rgba(0, 0, 0, 0.737);
+    
+}
+
+body{
+    background-color: var(--bgcol);
+    
+}
+
